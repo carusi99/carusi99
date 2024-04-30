@@ -16,7 +16,7 @@ I'm Paola Pacheco, a passionate Fullstack web developer, versatile and capable o
 
 - :seedling: I like to always learn new things.
 
-- :computer: I completed my studies as a Fullstack web developer at the Codeable academy...
+- :computer: I completed my studies as a Fullstack web developer at the <a href="https://www.codeable.la/">Codeable</a> academy...
   
 - 😄 I have solid problem solving and good teamwork.
   
