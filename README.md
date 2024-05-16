@@ -20,7 +20,6 @@ I'm Paola Pacheco, a passionate Fullstack web developer, versatile and capable o
   
 - 😄 I have solid problem solving and good teamwork.
   
-- :speech_balloon: Ask me about anything, I'll also leave you my website.
 
 </td>
 <td width="50%" align="center">
